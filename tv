@@ -4,7 +4,7 @@
 
                 ==========LIVE EVENTS SELECTS=======
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsMtI1VuRS2q_gMox6CZTgAxTgCx5YBBNfY8ZkdEyYSqzaNsDhN_TUg4Pw&s=10" Group-title="LIVE EVENTS", LIVE 01
+#EXTINF:-1 tvg-logo="https://media.giphy.com/media/fWba7xSMR1GC4r4Qpj/giphy.gif?cid=ecf05e47isdtvi0ujzm8lkwiz9u21sp7b8bq6vxeohv4nm5g&ep=v1_stickers_search&rid=giphy.gif&ct=s" Group-title="LIVE EVENTS", LIVE 01
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
 https://hlslive-tx-cdn.ysp.cctv.cn/eastmantv/2027304801.m3u8
