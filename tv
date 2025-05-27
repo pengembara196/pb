@@ -7,17 +7,19 @@
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmxOmTFKJcQDGrV4WHqlfOVmXlOYVsjA1jqoZmw-l07eNN72WUPbZ6LQM&s=10" Group-title="LIVE EVENTS", COURT 1
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
+https://files.catbox.moe/4h8bem.mp4
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmxOmTFKJcQDGrV4WHqlfOVmXlOYVsjA1jqoZmw-l07eNN72WUPbZ6LQM&s=10" Group-title="LIVE EVENTS", COURT 2
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
+https://files.catbox.moe/4h8bem.mp4
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmxOmTFKJcQDGrV4WHqlfOVmXlOYVsjA1jqoZmw-l07eNN72WUPbZ6LQM&s=10 Group-title="LIVE EVENTS", COURT 3
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
-
+https://files.catbox.moe/4h8bem.mp4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoOQEewdcHBppa3-ibxAsVua0LWuTysdUk_951gx64Tb0WiV1V8J1Y7rQo&s=10" Group-title="LIVE EVENTS", ASEAN All-Stars vs Manchester United
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
@@ -28,7 +30,6 @@ https://files.catbox.moe/4h8bem.mp4
 #EXTINF:-1 tvg-logo="https://liveevents.com/wp-content/uploads/2022/07/LE-Wide-Logo-White.png" Group-title="LIVE EVENTS", LIVE 05
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
-
 
 
 #EXTINF:-1 tvg-logo="https://liveevents.com/wp-content/uploads/2022/07/LE-Wide-Logo-White.png" Group-title="LIVE EVENTS", LIVE 06
@@ -1188,7 +1189,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
 
 
 #EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO BADMINTON HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Astro_Badminton_%282024%29.png/640px-Astro_Badminton_%282024%29.png" group-title="PREMIUM SPORT",ASTRO BADMINTON HD
-https://qtvku.my.id/play/admin/stream/dc30c11685145d2d
+https://qtvku.my.id/play/admin/stream/79818ec8e9903d51
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/T_Sports_7_Logo.png/revision/latest?cb=20211129065833" Group-title="PREMIUM SPORT", T-SPORT 7
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
@@ -1261,7 +1262,7 @@ https://qtvku.my.id/play/admin/stream/32be3b3e09e6fa40
 https://qtvku.my.id/play/admin/stream/179e8d31fb8145a7
 
 #EXTINF:-1 tvg-id="ASTRO SUPERSPORT.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroPremierLeague1.png" group-title="PREMIUM SPORT", Astro Premier League 1
-http://extraott.com:900/live/3162523972/3791698850/6590.m3u8
+https://qtvku.my.id/play/admin/stream/8ad11ffd1e323ba4
 
 #EXTINF:-1 tvg-id="ASTRO SUPERSPORT 2.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroPremierLeague2.png" group-title="PREMIUM SPORT", Astro Premier League 2
 http://extraott.com:900/live/3162523972/3791698850/6589.m3u8
