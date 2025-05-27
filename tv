@@ -4,25 +4,25 @@
 
                 ==========LIVE EVENTS SELECTS=======
 
-#EXTINF:-1 tvg-logo="https://liveevents.com/wp-content/uploads/2022/07/LE-Wide-Logo-White.png" Group-title="LIVE EVENTS", LIVE 01
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmxOmTFKJcQDGrV4WHqlfOVmXlOYVsjA1jqoZmw-l07eNN72WUPbZ6LQM&s=10" Group-title="LIVE EVENTS", COURT 1
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
 https://files.catbox.moe/4h8bem.mp4
 
 
-#EXTINF:-1 tvg-logo="https://liveevents.com/wp-content/uploads/2022/07/LE-Wide-Logo-White.png" Group-title="LIVE EVENTS", LIVE 02 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmxOmTFKJcQDGrV4WHqlfOVmXlOYVsjA1jqoZmw-l07eNN72WUPbZ6LQM&s=10" Group-title="LIVE EVENTS", COURT 2
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
 https://files.catbox.moe/4h8bem.mp4
 
 
-#EXTINF:-1 tvg-logo="https://liveevents.com/wp-content/uploads/2022/07/LE-Wide-Logo-White.png" Group-title="LIVE EVENTS", LIVE 03
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmxOmTFKJcQDGrV4WHqlfOVmXlOYVsjA1jqoZmw-l07eNN72WUPbZ6LQM&s=10 Group-title="LIVE EVENTS", COURT 3
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
 https://files.catbox.moe/4h8bem.mp4
 
 
-#EXTINF:-1 tvg-logo="https://liveevents.com/wp-content/uploads/2022/07/LE-Wide-Logo-White.png" Group-title="LIVE EVENTS", LIVE 04
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmxOmTFKJcQDGrV4WHqlfOVmXlOYVsjA1jqoZmw-l07eNN72WUPbZ6LQM&s=10" Group-title="LIVE EVENTS", COURT 4
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
 https://files.catbox.moe/4h8bem.mp4
@@ -31,7 +31,7 @@ https://files.catbox.moe/4h8bem.mp4
 #EXTINF:-1 tvg-logo="https://liveevents.com/wp-content/uploads/2022/07/LE-Wide-Logo-White.png" Group-title="LIVE EVENTS", LIVE 05
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
-https://files.catbox.moe/4h8bem.mp4
+
 
 
 #EXTINF:-1 tvg-logo="https://liveevents.com/wp-content/uploads/2022/07/LE-Wide-Logo-White.png" Group-title="LIVE EVENTS", LIVE 06
@@ -39,7 +39,7 @@ https://files.catbox.moe/4h8bem.mp4
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://sport7.pro/
 #EXTVLCOPT:http-origin=https://sport7.pro/
-https://files.catbox.moe/4h8bem.mp4
+
 
 
 #EXTINF:-1 tvg-logo="https://liveevents.com/wp-content/uploads/2022/07/LE-Wide-Logo-White.png" Group-title="LIVE EVENTS", LIVE 07
@@ -47,7 +47,7 @@ https://files.catbox.moe/4h8bem.mp4
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://sport7.pro/
 #EXTVLCOPT:http-origin=https://sport7.pro/
-https://files.catbox.moe/4h8bem.mp4
+
 
 
 #EXTINF:-1 tvg-logo="https://liveevents.com/wp-content/uploads/2022/07/LE-Wide-Logo-White.png" Group-title="LIVE EVENTS", LIVE 08
@@ -55,7 +55,7 @@ https://files.catbox.moe/4h8bem.mp4
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://sport7.pro/
 #EXTVLCOPT:http-origin=https://sport7.pro/
-https://files.catbox.moe/4h8bem.mp4
+
 
 
 #EXTINF:-1 tvg-logo="https://liveevents.com/wp-content/uploads/2022/07/LE-Wide-Logo-White.png" Group-title="LIVE EVENTS", LIVE 09
@@ -63,7 +63,7 @@ https://files.catbox.moe/4h8bem.mp4
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://sport7.pro/
 #EXTVLCOPT:http-origin=https://sport7.pro/
-https://files.catbox.moe/4h8bem.mp4
+
 
 
 #EXTINF:-1 tvg-logo="https://liveevents.com/wp-content/uploads/2022/07/LE-Wide-Logo-White.png" Group-title="LIVE EVENTS", LIVE 10
@@ -71,7 +71,7 @@ https://files.catbox.moe/4h8bem.mp4
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://sport7.pro/
 #EXTVLCOPT:http-origin=https://sport7.pro/
-https://files.catbox.moe/4h8bem.mp4
+
 
 
 
