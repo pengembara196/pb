@@ -34,7 +34,21 @@ https://files.catbox.moe/4h8bem.mp4
 https://files.catbox.moe/4h8bem.mp4
 
 
-#EXTINF:-1 tvg-logo="https://liveevents.com/wp-content/uploads/2022/07/LE-Wide-Logo-White.png" Group-title="LIVE EVENTS", LIVE 06
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=26rxe7dfzkmb4h93wk5mvx226_image-header_pJp_1747166621000&quality=50" Group-title="LIVE EVENTS", UEFA NATIONS LEAGUE | GERMANY VS PORTUGAL | 02:00 5 JUNI 2025
+#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
+https://files.catbox.moe/4h8bem.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=d98otpvceejrnssejjra4rbjh_image-header_pJp_1747166621000&quality=70" Group-title="LIVE EVENTS", UEFA NATIONS LEAGUE | SPAIN VS FRANCE | 02:00 6 JUNI 2025
+#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
+https://files.catbox.moe/4h8bem.mp4
+
+
+
+
+#EXTINF:-1 tvg-logo="https://liveevents.com/wp-content/uploads/2022/07/LE-Wide-Logo-White.png" Group-title="LIVE EVENTS", HONGKONG VS MU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://sport7.pro/
