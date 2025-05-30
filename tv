@@ -75,9 +75,15 @@ https://files.catbox.moe/4h8bem.mp4
 https://files.catbox.moe/4h8bem.mp4
 
 
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWXRjzD7A8i7G2EWaGQXN_yttOy3QwxqRhs69lc_2hOmF6rICayjTdxjs&s=10" Group-title="LIVE EVENTS", HONGKONG VS MANCHESTER UNITED | 30 MEI 2025 19:00 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=https://sport7.pro/
+#EXTVLCOPT:http-origin=https://sport7.pro/
+https://files.catbox.moe/4h8bem.mp4
+
+
+#EXTINF:-1 tvg-logo="https://d3q28ziehdbm1a.cloudfront.net/manual/CEV/thumbs/2025/CGL_2025/6.jpg?v=1" Group-title="LIVE EVENTS", VOLLEYBALL GOLDEN LEAGUE WOMEN'S | SWEDEN VS ROMANIA | 31 MEI 2025 20:50 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://sport7.pro/
