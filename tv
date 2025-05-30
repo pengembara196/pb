@@ -99,7 +99,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
-https://wahyu1ptv.pages.dev/ScTv-HD.m3u8
+https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_18831_360p/hdntl=exp=1748585319~acl=%2flive%2f18831%2fmaster.m3u8!%2fhls-p%2fingest_18831*%2f*!%2fhls-b%2fingest_18831*%2f*~id=allUsers~data=hdntl~hmac=8dd1e1e8b7a5b2b47b7b220b0d2278a09cc8712c2269aa2cb3a67fb2efd36ab9/index.m3u8
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", INDOSIAR HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
