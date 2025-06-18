@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/lRcShYLuXHjFE-teVDhbGw0iFb8=/784x441/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/18913/avc-women-s-volleyball-nation-cup-2025-cover-33e61d.jpg" Group-title="AVC NATIONS CUP 2025", SERVER 1
+#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
+https://fhlsport121.fjs40b8.xyz/token-JEEvzbiVffWG6DAqwfY6yGyGlJvQgizjaC2vkPJOEWXzsLGbHUFdD4ouqhdLVUpJBCeIwDdmmvw%3Da/cfall/s2001/v3b/n4o1q4q6nUE0pQbiY3AaYKEmqwphZ3umqT0ho25y/super/3x_606307.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj4cSrcEr4cQYlXc-Rfn01Dtc9jE379YprVq-nUEY-HDUy2iNt5r8xrooI&s=10" Group-title="MTQ MANDIANGIN TIMUR 2025", MTQ MANTIM 2025
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
